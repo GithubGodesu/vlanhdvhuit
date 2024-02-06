@@ -54,3 +54,37 @@ footer {
     width: 100%;
     text-align: center;
 }
+
+/* CSS pour les boutons */
+.btn {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #007bff; /* Couleur de fond du bouton */
+    color: #fff; /* Couleur du texte du bouton */
+    text-decoration: none; /* Suppression du soulignement par défaut */
+    border-radius: 5px; /* Bords arrondis */
+    transition: background-color 0.3s ease; /* Transition de couleur fluide */
+}
+
+.btn:hover {
+    background-color: #0056b3; /* Couleur de fond du bouton au survol */
+}
+
+/* CSS pour le menu déroulant */
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
