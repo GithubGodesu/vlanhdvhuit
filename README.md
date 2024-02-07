@@ -3,6 +3,8 @@ Chef de projet: Hugo DE SOUSA
 Équipe front-office: Raphaël CARVALHO  
 Équipe de back-end: Julien COLOMB & Baptiste ARNAUD  
 
-  Les différentes étapes de la réalisation du projet
--Installation du framwork <a href="https://laravel.com">Laravel.</a>
+    Les différentes étapes de la réalisation du projet
+-Installation du framwork   <span style="color:red;">
+                            <a href="https://laravel.com">Laravel.</a>
+                            </span>
 
