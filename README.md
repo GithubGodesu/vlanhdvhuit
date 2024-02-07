@@ -1,4 +1,4 @@
-<p align="center"><font color="blue">Projet Développement WEB</font></p>
+$${\color{lightgreen}Projet \space \color{lightgreen}Développement \space \color{lightgreen}WEB}$$
 
 ### Les membres et rôles de l'équipe:
 
