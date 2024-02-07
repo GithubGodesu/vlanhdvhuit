@@ -6,4 +6,4 @@
 - Équipe de back-end: <span style="color:orange;">Julien COLOMB</span> & <span style="color:red;">Baptiste ARNAUD</span>  
 
 ## Les différentes étapes de la réalisation du projet
--Installation du framwork <a href="https://laravel.com">Laravel.</a>
+- Installation du framwork <a href="https://laravel.com">Laravel.</a>
