@@ -1,5 +1,6 @@
 
 ## Les membres et rôles de l'équipe:
+$${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$$
 
 - Chef de projet: <span style="color:blue;">Hugo DE SOUSA</span>
 - Équipe front-office: <span style="color:green;">Raphaël CARVALHO</span>
