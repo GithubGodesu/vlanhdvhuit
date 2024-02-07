@@ -1,3 +1,5 @@
+<p align="center"><font color="blue">Projet Développement WEB</font></p>
+
 ### Les membres et rôles de l'équipe:
 
 ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Chef de projet:  `Hugo DE SOUSA`  
