@@ -1,4 +1,5 @@
-<p>Les membres et rôles de l'équipe:</p>
+<html>
+    <p>Les membres et rôles de l'équipe:</p>
 <ul>
   <li>Chef de projet: <span style="color:blue;">Hugo DE SOUSA</span></li>
   <li>Équipe front-office: <span style="color:green;">Raphaël CARVALHO</span></li>
@@ -8,3 +9,4 @@
     Les différentes étapes de la réalisation du projet
 -Installation du framwork <a href="https://laravel.com">Laravel.</a>
 
+</html>
