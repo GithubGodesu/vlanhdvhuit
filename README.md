@@ -7,4 +7,4 @@
 
 ## Les différentes étapes de la réalisation du projet
 - Installation du framwork <a href="https://laravel.com">Laravel.</a>
-- Installation et mise en place de <a href="https://www.docker.com"Docker.</a>
+- Installation et mise en place de <a href="https://www.docker.com">Docker.</a>
