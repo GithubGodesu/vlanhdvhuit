@@ -1,8 +1,8 @@
 ### Les membres et rôles de l'équipe:
 
-- Chef de projet: ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `Hugo DE SOUSA`
-- Équipe front-office: ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `Raphaël CARVALHO`
-- Équipe de back-end: ![#FFA500](https://via.placeholder.com/15/FFA500/000000?text=+) `Julien COLOMB` & ![#FFA500](https://via.placeholder.com/15/FFA500/000000?text=+) `Baptiste ARNAUD`
+- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)Chef de projet:  `Hugo DE SOUSA`
+- ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+)Équipe front-office:  `Raphaël CARVALHO`
+- ![#FFA500](https://via.placeholder.com/15/FFA500/000000?text=+)Équipe de back-end:  `Julien COLOMB` &  `Baptiste ARNAUD`
 
 
 \end{document}$$
