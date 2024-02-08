@@ -15,7 +15,7 @@ $${\color{lightgreen}Projet \space \color{lightgreen}Développement \space \colo
 - Création d'un blog minimaliste à l'aide de l'outil [Breeze](https://laravel.com/docs/9.x/starter-kits#breeze-and-blade).
 
 ### Les sources utilisées:
-&#x25cf; La ligne de conduite pour le projet: ![#c3e6c6](https://via.placeholder.com/15/c3e6c6/000000?text=+) [GitHub Repository](https://github.com/nicolas-sanch/creer-site-3iSystem)  
-&#x25cf; Tutoriel d'installation de Laravel: ![#c3e6c6](https://via.placeholder.com/15/c3e6c6/000000?text=+) [Laravel Documentation](https://laravel.com/docs/10.x)  
-&#x25cf; Création et mise en place d'un blog minimaliste: ![#c3e6c6](https://via.placeholder.com/15/c3e6c6/000000?text=+) [GitHub Repository](https://github.com/nicolas-sanch/creer-minimalist-blog)  
-&#x25cf; Installation de Breeze: ![#c3e6c6](https://via.placeholder.com/15/c3e6c6/000000?text=+) [Laravel Documentation](https://laravel.com/docs/9.x/starter-kits#breeze-and-blade)
+![#8bc34a](https://via.placeholder.com/10/8bc34a/000000?text=+) La ligne de conduite pour le projet: [GitHub Repository](https://github.com/nicolas-sanch/creer-site-3iSystem)  
+![#8bc34a](https://via.placeholder.com/10/8bc34a/000000?text=+) Tutoriel d'installation de Laravel: [Laravel Documentation](https://laravel.com/docs/10.x)  
+![#8bc34a](https://via.placeholder.com/10/8bc34a/000000?text=+) Création et mise en place d'un blog minimaliste: [GitHub Repository](https://github.com/nicolas-sanch/creer-minimalist-blog)  
+![#8bc34a](https://via.placeholder.com/10/8bc34a/000000?text=+) Installation de Breeze: [Laravel Documentation](https://laravel.com/docs/9.x/starter-kits#breeze-and-blade)
