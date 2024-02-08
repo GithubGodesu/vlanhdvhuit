@@ -8,7 +8,8 @@ $${\color{lightgreen}Projet \space \color{lightgreen}Développement \space \colo
 
 ### Les différentes étapes de la réalisation du projet:
 - Installation et mise en place de [Docker](https://www.docker.com){:target="_blank"}.
-- Installation de [Debian](https://apps.microsoft.com/detail/9MSVKQC78PK6?hl=fr-fr&gl=FR){:target="_blank"} via le Microsoft Store.
+- Installation de [Debian](https://apps.microsoft.com/detail/9MSVKQC78PK6?hl=fr-fr&gl=FR){:target="_blank"}
+ via le Microsoft Store.
 - Installation du framwork [Laravel](https://laravel.com){:target="_blank"} sur la machine Debian.
 - Création du dépôt distant Github.
 - Création d'un site en local.
