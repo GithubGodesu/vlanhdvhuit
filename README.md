@@ -12,12 +12,12 @@ $${\color{lightgreen}Projet \space \color{lightgreen}Développement \space \colo
 - Installation du framwork <a href="https://laravel.com">Laravel</a> sur la machine Debian.
 - Création du dépôt distant Github.
 - Création d'un site en local.
-- Création d'un blog minimaliste à l'aide de l'outil <a href="https://laravel.com/docs/9.x/starter-kits#breeze-and-blade">Breeze</a>.
+- Création d'un blog minimaliste à l'aide de l'outil [Breeze](https://laravel.com/docs/9.x/starter-kits#breeze-and-blade).
 
 ### Les diffcultés rencontrés & Les solutions apportés:
 
 ### Les sources utilisées:
-La ligne de conduite pour le projet: https://github.com/nicolas-sanch/creer-site-3iSystem
-Tutoriel d'installation de Laravel: https://laravel.com/docs/10.x
-Création et mise en place d blog [minimaliste](https://github.com/nicolas-sanch/creer-minimalist-blog): https://github.com/nicolas-sanch/creer-minimalist-blog
-Installation de Breeze: https://laravel.com/docs/9.x/starter-kits#breeze-and-blade
+La ligne de conduite pour le projet: https://github.com/nicolas-sanch/creer-site-3iSystem  
+Tutoriel d'installation de Laravel: https://laravel.com/docs/10.x  
+Création et mise en place d blog minimaliste: https://github.com/nicolas-sanch/creer-minimalist-blog  
+Installation de Breeze: https://laravel.com/docs/9.x/starter-kits#breeze-and-blade  
