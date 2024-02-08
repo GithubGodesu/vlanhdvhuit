@@ -24,8 +24,6 @@ Installation de Breeze: https://laravel.com/docs/9.x/starter-kits#breeze-and-bla
 
 
 
-
-Debut chat gpt
 \documentclass{article}
 \usepackage[utf8]{inputenc}
 \usepackage{xcolor}
