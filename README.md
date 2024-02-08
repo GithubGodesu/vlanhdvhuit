@@ -20,4 +20,4 @@ Tutoriel d'installation de Laravel: https://laravel.com/docs/10.x
 Création et mise en place d blog minimaliste: https://github.com/nicolas-sanch/creer-minimalist-blog  
 Installation de Breeze: https://laravel.com/docs/9.x/starter-kits#breeze-and-blade  
 
-&#x25cf; Installation de  [Debian](https://apps.microsoft.com/detail/9MSVKQC78PK6?hl=fr-fr&gl=FR) via le Microsoft Store.
+Installation et mise en place de ![#c3e6c6](https://via.placeholder.com/15/c3e6c6/000000?text=+) &#x25cf; [Docker](https://www.docker.com).
