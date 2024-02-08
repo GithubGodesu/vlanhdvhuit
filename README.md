@@ -14,5 +14,11 @@ $${\color{lightgreen}Projet \space \color{lightgreen}Développement \space \colo
 - Création d'un site en local.
 - Création d'un blog minimaliste à l'aide de l'outil [Breeze](https://laravel.com/docs/9.x/starter-kits#breeze-and-blade).
 
-### Les diffcultés rencontrés & Les solutions apportés:
-- Installation et mise en place de &#x25cf; [Docker](https://www.docker.com).
+### Les sources utilisées:
+La ligne de conduite pour le projet: https://github.com/nicolas-sanch/creer-site-3iSystem  
+Tutoriel d'installation de Laravel: https://laravel.com/docs/10.x  
+Création et mise en place d blog minimaliste: https://github.com/nicolas-sanch/creer-minimalist-blog  
+Installation de Breeze: https://laravel.com/docs/9.x/starter-kits#breeze-and-blade  
+Peut tu me le personnaliser (ajout de couleur ...)
+
+Installation de &#x25cf; [Debian](https://apps.microsoft.com/detail/9MSVKQC78PK6?hl=fr-fr&gl=FR) via le Microsoft Store.
