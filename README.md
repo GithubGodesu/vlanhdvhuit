@@ -21,19 +21,3 @@ La ligne de conduite pour le projet: https://github.com/nicolas-sanch/creer-site
 Tutoriel d'installation de Laravel: https://laravel.com/docs/10.x  
 Création et mise en place d blog minimaliste: https://github.com/nicolas-sanch/creer-minimalist-blog  
 Installation de Breeze: https://laravel.com/docs/9.x/starter-kits#breeze-and-blade  
-
-### Les différentes étapes de la réalisation du projet:
-&#x25cf; Installation et mise en place de ![#c3e6c6](https://via.placeholder.com/15/c3e6c6/000000?text=+) [Docker](https://www.docker.com).  
-&#x25cf; Installation de ![#c3e6c6](https://via.placeholder.com/15/c3e6c6/000000?text=+) [Debian](https://apps.microsoft.com/detail/9MSVKQC78PK6?hl=fr-fr&gl=FR) via le Microsoft Store.  
-&#x25cf; Installation du framework ![#c3e6c6](https://via.placeholder.com/15/c3e6c6/000000?text=+) [Laravel](https://laravel.com) sur la machine Debian.  
-&#x25cf; Création du dépôt distant Github.  
-&#x25cf; Création d'un site en local.  
-&#x25cf; Création d'un blog minimaliste à l'aide de l'outil ![#c3e6c6](https://via.placeholder.com/15/c3e6c6/000000?text=+) [Breeze](https://laravel.com/docs/9.x/starter-kits#breeze-and-blade).
-
-### Les difficultés rencontrées & Les solutions apportées:
-
-### Les sources utilisées:
-&#x25cf; La ligne de conduite pour le projet: ![#c3e6c6](https://via.placeholder.com/15/c3e6c6/000000?text=+) [GitHub Repository](https://github.com/nicolas-sanch/creer-site-3iSystem)  
-&#x25cf; Tutoriel d'installation de Laravel: ![#c3e6c6](https://via.placeholder.com/15/c3e6c6/000000?text=+) [Laravel Documentation](https://laravel.com/docs/10.x)  
-&#x25cf; Création et mise en place d'un blog minimaliste: ![#c3e6c6](https://via.placeholder.com/15/c3e6c6/000000?text=+) [GitHub Repository](https://github.com/nicolas-sanch/creer-minimalist-blog)  
-&#x25cf; Installation de Breeze: ![#c3e6c6](https://via.placeholder.com/15/c3e6c6/000000?text=+) [Laravel Documentation](https://laravel.com/docs/9.x/starter-kits#breeze-and-blade)
