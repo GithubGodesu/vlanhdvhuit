@@ -7,7 +7,7 @@ $${\color{lightgreen}Projet \space \color{lightgreen}Développement \space \colo
 ![#FFA500](https://via.placeholder.com/15/FFA500/000000?text=+) Équipe de back-end:  `Julien COLOMB` &  `Baptiste ARNAUD`  
 
 ## Les différentes étapes de la réalisation du projet
-- Installation de <a href="https://apps.microsoft.com/detail/9MSVKQC78PK6?hl=fr-fr&gl=FR">Debian</a>via le Microsoft Store.
+- Installation de <a href="https://apps.microsoft.com/detail/9MSVKQC78PK6?hl=fr-fr&gl=FR">Debian</a> via le Microsoft Store.
 - Installation et mise en place de <a href="https://www.docker.com">Docker.</a>
 - Installation du framwork <a href="https://laravel.com">Laravel.</a>
 
