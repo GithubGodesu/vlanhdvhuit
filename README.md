@@ -7,13 +7,12 @@ $${\color{lightgreen}Projet \space \color{lightgreen}Développement \space \colo
 ![#FFA500](https://via.placeholder.com/15/FFA500/000000?text=+) Équipe de back-end:  `Julien COLOMB` &  `Baptiste ARNAUD`  
 
 ### Les différentes étapes de la réalisation du projet:
-- Installation et mise en place de [Docker](https://www.docker.com){:target="_blank"}.
-- Installation de [Debian](https://apps.microsoft.com/detail/9MSVKQC78PK6?hl=fr-fr&gl=FR){:target="_blank"}
- via le Microsoft Store.
-- Installation du framwork [Laravel](https://laravel.com){:target="_blank"} sur la machine Debian.
+- Installation et mise en place de [Docker](https://www.docker.com).
+- Installation de <a href="https://apps.microsoft.com/detail/9MSVKQC78PK6?hl=fr-fr&gl=FR" target="_blank">Debian</a> via le Microsoft Store.
+- Installation du framwork [Laravel](https://laravel.com) sur la machine Debian.
 - Création du dépôt distant Github.
 - Création d'un site en local.
-- Création d'un blog minimaliste à l'aide de l'outil [Breeze](https://laravel.com/docs/9.x/starter-kits#breeze-and-blade){:target="_blank"}.
+- Création d'un blog minimaliste à l'aide de l'outil [Breeze](https://laravel.com/docs/9.x/starter-kits#breeze-and-blade).
 
 ### Les diffcultés rencontrés & Les solutions apportés:
 
