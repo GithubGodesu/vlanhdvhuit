@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Exemple de mise en page CSS</title>
+    <title>mise en page CSS</title>
     <style>
         /* CSS pour les boutons */
         .btn {
@@ -17,7 +17,7 @@
         }
 
         .btn:hover {
-            background-color: #800080; /* Violet foncé au survol */
+            background-color: #f0f0f0; /* Blanc teinté au survol */
         }
 
         /* CSS pour le menu déroulant */
@@ -58,7 +58,7 @@
 </head>
 <body>
     <header>
-        <h1>Mon Site Web</h1>
+        <h1>Site Web du Projet</h1>
         <nav>
             <div class="dropdown">
                 <a href="#" class="btn">Menu</a>
