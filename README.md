@@ -3,7 +3,7 @@ $${\color{lightgreen}Projet \space \color{lightgreen}Développement \space \colo
 ## Les membres et rôles de l'équipe:
 
 ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Chef de projet:  `Hugo DE SOUSA`  
-![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Équipe front-office et back-end:  `Raphaël CARVALHO` & `Julien COLOMB` &  `Baptiste ARNAUD` 
+![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Équipe front-office et back-end:  `Raphaël CARVALHO` , `Julien COLOMB` &  `Baptiste ARNAUD` 
 
 ### Les différentes étapes de la réalisation du projet:
 - Installation et mise en place de [Docker](https://www.docker.com).
